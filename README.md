@@ -13,3 +13,6 @@ In this task, we will be using predefined functions in a python and the python f
 1. Python.
 2. OpenCV.
 3. SkLearn.
+
+# OUTPUT
+SCREENSHOT PICS FROM 75-79 
